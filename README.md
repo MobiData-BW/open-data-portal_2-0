@@ -1,5 +1,6 @@
 # Open-Data-Portal 2.0
-##Hintergrund
+
+## Hintergrund
 Am 6. Oktober 2021 diskutierte das Team um MobiData BW in einem digitalen Workshop gemeinsam mit Datengebern, -nehmern und Expert*innen **Erwartungen, Anforderungen und Empfehlungen** für die weitere Ausgestaltung des **“MobiData BW Open-Data-Portal 2.0”**. Im Rahmen des Workshops sollte ein gemeinsames Zielbild eines Open-Data-Portals 2.0 entwickelt werden, das die Bedarfe der Workshop-Teilnehmenden einbezieht. Die Sammlung der Ideen und Bedarfe wird im Nachgang auf die Umsetzbarkeit im Open-Data-Portal 2.0 geprüft. Der Workshop hatte daher v.a. auch beratenden Charakter. Die Leitfragen waren:
 
 *	Welche Daten werden gebraucht und wie kann die Arbeit mit den Daten unterstützt werden? 
@@ -9,10 +10,10 @@ Diskutiert wurde in drei verschiedenen Arbeitsgruppen zu den Themen „Technisch
 Wir möchten gerne dazu einladen, die Ergebnisse des Workshops weiter zu diskutieren, zu kommentieren und weitere Hinweise zu sammeln, um das Open-Data-Portal von MobiData BW weiter zu entwickeln!   
 
 
-##Ergebnisse des Workshops
+## Ergebnisse des Workshops
 Hier sind die Ergebnisse gelistet. Bitte diese erweitern, kommentieren, löschen, etc.
 
-###Empfehlungen und Wünsche
+### Empfehlungen und Wünsche
 |Stichwort | Empfehlung/ Wünsche | Arbeitsgruppe|
 |:---:|:---:|:---:|
 |Datennutzung | Keine Registrierung | Integration in Anwendungen|
@@ -68,8 +69,7 @@ Hier sind die Ergebnisse gelistet. Bitte diese erweitern, kommentieren, löschen
 |technische Anforderungen an Plattform (ckan) | Datenrepository  (https://stefan.bloggt.es/2021/08/wie-apt-get-fuer-daten-knapp-12-jahre-spaeter/) | Technische Infrastruktur|
 |technische Anforderungen an Plattform (ckan) | community-builder (z.B. Forum) | Technische Infrastruktur|
 
-###Bedenken
-
+### Bedenken
 |Stichwort | Bedenken | Arbeitsgruppe|
 |:---:|:---:|:---:|
 |Schnittstellen | DORA-API: wie lange ist sie noch aktiv? Kontinuität ist wichtig | Integration in Anwendungen|
@@ -77,8 +77,7 @@ Hier sind die Ergebnisse gelistet. Bitte diese erweitern, kommentieren, löschen
 |technische Anforderung an Plattform (ckan) | ckan nicht einsetzbar (Sicherheit?) | Anbindung neuer Datensätze/-quellen|
 |Rechtliche Rahmenbedingungen | Lizenzen klären | Anbindung neuer Datensätze/-quellen|
 
-###Allgemeine Statements
-
+### Allgemeine Statements
 |Stichwort | Ideen allg. | Arbeitsgruppe|
 |:---:|:---:|:---:|
 |Multi-Level-Governance | IDS-dezentrale Technologie beobachten | Technische Infrastruktur|
