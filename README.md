@@ -12,6 +12,7 @@ Wir möchten gerne dazu einladen, die Ergebnisse des Workshops weiter zu diskuti
 ##Ergebnisse des Workshops
 Hier sind die Ergebnisse gelistet. Bitte diese erweitern, kommentieren, löschen, etc.
 
+###Empfehlungen und Wünsche
 |Stichwort | Empfehlung/ Wünsche | Arbeitsgruppe|
 |:---:|:---:|:---:|
 |Datennutzung | Keine Registrierung | Integration in Anwendungen|
@@ -66,3 +67,39 @@ Hier sind die Ergebnisse gelistet. Bitte diese erweitern, kommentieren, löschen
 |technische Anforderungen an Plattform (ckan) | Aufwad ckan niedrig halten - UX nicht allzu wichtig | Anbindung neuer Datensätze/-quellen|
 |technische Anforderungen an Plattform (ckan) | Datenrepository  (https://stefan.bloggt.es/2021/08/wie-apt-get-fuer-daten-knapp-12-jahre-spaeter/) | Technische Infrastruktur|
 |technische Anforderungen an Plattform (ckan) | community-builder (z.B. Forum) | Technische Infrastruktur|
+
+###Bedenken
+
+|Stichwort | Bedenken | Arbeitsgruppe|
+|:---:|:---:|:---:|
+|Schnittstellen | DORA-API: wie lange ist sie noch aktiv? Kontinuität ist wichtig | Integration in Anwendungen|
+|Anforderungen an die Suche der Datensätze | Carpool-Analytics - komplexer Prozess der Datensatzfindung (Negativbeispiel) | Anbindung neuer Datensätze/-quellen|
+|technische Anforderung an Plattform (ckan) | ckan nicht einsetzbar (Sicherheit?) | Anbindung neuer Datensätze/-quellen|
+|Rechtliche Rahmenbedingungen | Lizenzen klären | Anbindung neuer Datensätze/-quellen|
+
+###Allgemeine Statements
+
+|Stichwort | Ideen allg. | Arbeitsgruppe|
+|:---:|:---:|:---:|
+|Multi-Level-Governance | IDS-dezentrale Technologie beobachten | Technische Infrastruktur|
+|Multi-Level-Governance | IDS-dezentrale Lösung ohne Plattform vs. "open data" als Grundprinzip | Technische Infrastruktur|
+|Innovationsmanagement | Community-Projekte zur Vergrößerung des Datensatzes zur Barrierefreiheit | Integration in Anwendungen|
+|Zielsetzung allgemein | positives Bsp- HERE-Straßennavigationsdatenbank | Technische Infrastruktur|
+|Zielsetzung allgemein | positives Bsp. OSM (Marker setzen zur Kommunikation, nicht Änderung durch jede:n) | Technische Infrastruktur|
+|Zielsetzung allgemein | positives Bsp. Hamburger Datenportal (übersichtlich, gute Visualisierung) | Integration in Anwendungen|
+|Zielsetzung allgemein | positivs Bsp. Wiki-base | Technische Infrastruktur|
+|Zielsetzung allgemein | positives Bsp. VRN Data Lake | Technische Infrastruktur|
+|Zielsetzung allgemein | Gesamtes System einfacher sehen, ganzheitlich | Anbindung neuer Datensätze/-quellen|
+|Zielsetzung allgemein | Kommunen haben nicht viele Daten, daher Angebot zur landesweiten Unterstützung | Anbindung neuer Datensätze/-quellen|
+|Zielsetzung allgemein | Netzwerk, nicht monetärer Effekt (Image?) | Anbindung neuer Datensätze/-quellen|
+|Zielsetzung allgemein | Konzentration auf Mobilität o. größerer thematischer Scope? | Anbindung neuer Datensätze/-quellen|
+|Zielsetzung allgemein | Beispiel für geschlossene Daten: Infos, die man zurückverfolgen „muss“ (Login), Floating Car Data werden eingekauft, dürfen nicht Open Data | Anbindung neuer Datensätze/-quellen|
+|Zielsetzung allgemein | Prozessebene: Multi-City-Anbieter (z. B. escooter) ist Landesaufgabe, Kapazität ist in Kommunen nicht da | Anbindung neuer Datensätze/-quellen|
+|Zielsetzung allgemein | Daten durchleiten vs. Daten vorhalten (Portal 2.0)! | Anbindung neuer Datensätze/-quellen|
+|Anforderung an Daten | Für extern oft nicht durchdringbar: Datenqualität/Standard nicht von außen erzwingbar | Anbindung neuer Datensätze/-quellen|
+|Zielgruppe | Daten nur für die "Community" oder generell? | Anbindung neuer Datensätze/-quellen|
+|Anforderung an Daten | Datenpflege (an der Quelle? + Personal) + Datenqualität (aktuell!) | Anbindung neuer Datensätze/-quellen|
+|Schnittstelle | Veränderung mitdenken! Generierung von Schnittstellen, die dem Standard folgt (minimaler Aufwand für K) | Anbindung neuer Datensätze/-quellen|
+|Rechtliche Rahmenbedingungen | „Blockaden lösen“= rechtliche Vorgaben, weit gefasste Lösungen und Systeme | Anbindung neuer Datensätze/-quellen|
+|Darstellung von Use-Cases  | Hauptarbeit direkt in den Kommunen - Land kann nur Kommunenübergreifend unterstützen | Anbindung neuer Datensätze/-quellen|
+|Darstellung von Use-Cases  | kleinere Kommunen ohne Geodatenmanagement fragen | Anbindung neuer Datensätze/-quellen|
