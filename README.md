@@ -66,4 +66,4 @@ Hier sind die Ergebnisse gelistet. Bitte diese erweitern, kommentieren, löschen
 |technische Anforderungen an Plattform (ckan) | Aufwad ckan niedrig halten - UX nicht allzu wichtig | Anbindung neuer Datensätze/-quellen|
 |technische Anforderungen an Plattform (ckan) | Datenrepository  (https://stefan.bloggt.es/2021/08/wie-apt-get-fuer-daten-knapp-12-jahre-spaeter/) | Technische Infrastruktur|
 |technische Anforderungen an Plattform (ckan) | community-builder (z.B. Forum) | Technische Infrastruktur|
-| --- | --- |
+|---|---|---|
