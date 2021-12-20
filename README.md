@@ -13,7 +13,7 @@ Wir möchten gerne dazu einladen, die Ergebnisse des Workshops weiter zu diskuti
 Hier sind die Ergebnisse gelistet. Bitte diese erweitern, kommentieren, löschen, etc.
 
 |Stichwort | Empfehlung/ Wünsche | Arbeitsgruppe|
-| --- | --- |
+|:---:|:---:|:---:|
 |Datennutzung | Keine Registrierung | Integration in Anwendungen|
 |Datennutzung | offene Daten und Aktualität ggf. Bezahlmodell | Technische Infrastruktur|
 |Datennutzung | vielfältige Datenformate | Integration in Anwendungen|
